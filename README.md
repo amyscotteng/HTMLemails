@@ -22,7 +22,8 @@ There are all kinds of weird rules you have to follow when developing HTML email
 
 ## Status
 Project is: 
-In Progress. I'll be adding more designs in the coming weeks (ie three column, four column, etc)
+In Progress. 
+I'll be adding more designs in the coming weeks (ie three column, four column, etc). Please feel free to fork and make them your own.
 
 ## Contact
 Created by Amy Scott (amyscotteng@gmail.com)
