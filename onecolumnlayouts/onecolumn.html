@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB">
+<head>
+
+<!--This is for DPI scaling issues in Outlook. One of MANY issues in Outlook..........-->
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>One Column Email</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- enable media queries for Windows 8 phones. Woo hoo! -->
+<meta name="format-detection" content="telephone=no"> <!-- Removes phone number as a link in HTML on iOS v7 - 9 -->
+<meta name="format-detection" content="date=no"> <!-- Removes dates as a link in HTML in iOS v7 - 9 -->
+
+<style type="text/css">
+
+/*special rules designed for apple*/
+
+/*footer for iOS*/
+.applefoot a {
+  color: #aaaaaa !important;
+  text-decoration: underline;
+}
+
+/* iOS link corrections */
+a[href^="x-apple-data-detectors:"],
+a[x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+
+/*media queries for supported devices (android, iOS, outlook.com, etc*/
+
+@media screen and (max-width: 599px) {
+  .force-row,
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .container-padding {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background-color: #D3D3D3; /*gives the email a nice background so it's not floating in space*/
+  font-family:Helvetica, Arial, sans-serif;
+}
+
+.maintable {
+  width: 100%;
+  height: 100%;
+  padding: 30px 0px;
+
+}
+
+table {
+  border-spacing: 0;
+
+  /*removes spacing adding to the left and right of table by Outlook; prevents large gaps in tables */
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+}
+
+/*Removes the annoying 1px border added by Outlook */
+
+table td {
+  border-collapse: collapse;
+}
+
+.headline {
+  
+  font-size:24px;
+  font-weight:bold;
+  color: #344F7D;
+  padding: 0px 24px 12px;
+  text-align: left;
+}
+
+.title {
+  
+  font-size:18px;
+  font-weight:600;
+  padding: 10px 0 0;
+}
+
+.topcell {
+  background-color: #FFFFFF;
+}
+
+.topcell, .secondcell, .thirdcell {
+  padding: 12px 24px;
+}
+
+
+.secondcell {
+  background-color: #716c6d;
+  color: #FFFFFF;
+}
+
+.thirdcell {
+  background-color: #004c82;
+  color: #FFFFFF;
+}
+
+.cellpasp {
+  padding: 0;
+  border: 0;
+}
+
+.divinfotext {
+  
+  font-size:14px;
+  line-height:20px;
+  text-align:left;
+  padding: 10px 0px;
+}
+
+.foot {
+  background-color: #001f57;
+  font-size:12px;
+  line-height:16px;
+  color:#FFFFFF;
+  padding: 0px 24px;
+}
+
+.sixtable {
+  width:600px;
+  max-width:600px;
+}
+
+
+/*sets interpolation mode for scaling an image aka sharpness! */
+
+img {
+  -ms-interpolation-mode: bicubic;
+}
+
+
+
+
+
+
+
+</style>
+</head>
+
+<body>
+
+<table class="maintable cellpasp">
+  <tr>
+    <td align="center" valign="top">
+
+      <br>
+
+      <!-- 600px container (white background) -->
+      <table class="cellpasp sixtable" width="600">
+        
+        <tr>
+          <td class="headline">
+            Outlook Email Layout
+          </td>
+        </tr>
+
+        <tr>
+          <td align="center">
+          
+            
+              
+              <div>
+                <img src="greatwhite.jpg" width="100%">
+              </div>
+
+              
+
+          </td>
+        </tr>
+
+        <tr>
+
+          <td align="left" class="topcell">
+          
+            <div class="title">Single Column Layout - Works in Outlook!</div>
+              
+              <div class="divinfotext spactxt">
+                A single column layout that works on the ever pesky Outlook which makes web developers want to run away in sheer terror. We all know
+                how annoying Outlook can be for email development but hopefully this simple layout will make this a little bit easier for you!
+              </div>            
+
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            
+          </td>
+
+        </tr>
+
+        <!--row two -->
+
+        <tr>
+          <td align="left" class="secondcell">
+            
+            <div class="title">More layouts are coming!</div>
+
+              <div class="divinfotext">
+                I'll be developing more complex layouts including ones with videos (which have their own challenges in Outlook) and multi column layouts soon.
+              </div>
+
+          </td>
+        </tr>
+
+
+        <!-- row three -->
+
+        <tr>
+          <td align="left" class="thirdcell">
+            
+            <div class="title">Give me more!</div>
+
+              <div class="divinfotext">
+                Need more rows? Just copy and paste the open and closing tr tags. Please note all of my CSS is embedded and is supported on the Outlook Android and iOS apps.
+                See <a href="https://www.campaignmonitor.com/css/style-element/style-in-head/">this link</a> if you want to check out what other devices are supported!
+              </div>
+
+          </td>
+        </tr>
+
+
+        <tr>
+          <td class="foot .applefoot" align="left">
+            <br><br>
+            © Company Name
+            <br><br>
+
+            <a href="#" style="color:#aaaaaa">Click here</a> to unsubscribe.
+            
+
+            <br><br>
+
+          </td>
+        </tr>
+      </table>
+<!--/600px container -->
+
+
+    </td>
+  </tr>
+</table>
+
+
+</body>
+</html>
