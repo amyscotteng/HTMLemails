@@ -6,7 +6,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
