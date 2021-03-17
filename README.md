@@ -20,8 +20,8 @@ Outlook emails are rendered using Microsoft Word so they rely on every developer
 
 ## Status
 Project is: 
-In Progress. 
-I'll be adding more layouts in the coming weeks (ie three column, four column, layouts with videos, etc). Please feel free to fork and make them your own. I'll be adding a boilerplate to get you started soon! Best of luck with Outlook. May the odds be ever in your favor.
+_in progress_
+<p>I'll be adding more layouts in the coming weeks (ie three column, four column, layouts with videos, etc). Please feel free to fork and make them your own. I'll be adding a boilerplate to get you started soon! Best of luck with Outlook. May the odds be ever in your favor.</p>
 
 ## Contact
 Created by Amy Scott (amyscotteng@gmail.com)
