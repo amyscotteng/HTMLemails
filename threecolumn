@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
+  <!--[if !mso]><!-->
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<!--<![endif]-->
+  <title></title>
+	<!--[if mso]>
+	<style type="text/css">
+    table {border-collapse:collapse;border:0;border-spacing:0;margin:0;}
+    div, td {padding:0;}
+    div {margin:0 !important;}
+	</style>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+  <style type="text/css">
+    @media screen and (max-width: 350px) {
+      .three-col .column {
+        max-width: 100% !important;
+      }
+    }
+    @media screen and (min-width: 351px) and (max-width: 460px) {
+      .three-col .column {
+        max-width: 50% !important;
+      }
+    }
+    @media screen and (max-width: 460px) {
+      .two-col .column {
+        max-width: 100% !important;
+      }
+      .two-col img {
+        width: 100% !important;
+      }
+    }
+    @media screen and (min-width: 461px) {
+      .three-col .column {
+        max-width: 33.3% !important;
+      }
+      .two-col .column {
+        max-width: 50% !important;
+      }
+      .sidebar .small {
+        max-width: 16% !important;
+      }
+      .sidebar .large {
+        max-width: 84% !important;
+      }
+    }
+  </style>
+</head>
+<body style="margin:0;padding:0;word-spacing:normal;background-color:#ffffff;">
+  <div role="article" aria-roledescription="email" lang="en" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;background-color:#ffffff;">
+    <table role="presentation" style="width:100%;border:0;border-spacing:0;">
+      <tr>
+        <td align="center">
+          <!--[if mso]>
+          <table role="presentation" align="center" style="width:660px;">
+          <tr>
+          <td style="padding:20px 0;">
+          <![endif]-->
+          <div class="outer" style="width:96%;max-width:660px;margin:20px auto;">
+            
+            <table role="presentation" style="width:100%;border:0;border-spacing:0;">
+              
+                <tr>
+                    <td style="padding:10px 10px 20px 10px;font-family:Arial,sans-serif;font-size:24px;line-height:28px;font-weight:bold;">
+                    <img src="https://dogtime.com/wp-content/uploads/sites/12/2019/04/GettyImages-1187431412.jpg?resize=1200,630" width="640" alt="" style="width:100%;height:auto;" />
+                    </td>
+                </tr>
+              
+                <tr>
+                    <td style="padding:10px;text-align:left;">
+                    <h1 style="margin-top:0;margin-bottom:16px;font-family:Arial,sans-serif;font-size:26px;line-height:32px;font-weight:bold;">Two column to three column with buttons</h1>
+                    <p style="margin:0;font-family:Arial,sans-serif;font-size:18px;line-height:24px;">The German Shepherd, also known in Britain as an Alsatian, is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899.</p>
+                    </td>
+                </tr>
+
+            </table>
+
+            <div class="spacer" style="line-height:26px;height:26px;mso-line-height-rule:exactly;">&nbsp;</div>
+
+            <div class="two-col" style="text-align:center;font-size:0;">
+              <!--[if mso]>
+              <table role="presentation" width="100%">
+              <tr>
+              <td style="width:50%;padding:10px;" valign="middle">
+              <![endif]-->
+            <div class="column" style="width:100%;max-width:330px;display:inline-block;vertical-align:middle;">
+                <div style="padding:10px;">
+                  <p style="margin:0;font-family:Arial,sans-serif;font-size:14px;line-height:18px;">
+                    <img src="https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-puppies.jpg" width="310" alt="" style="display:block;width:310px;max-width:100%;height:auto;" />
+                  </p>
+                </div>
+            </div>
+
+              <!--[if mso]>
+              </td>
+              <td style="width:50%;padding:10px;" valign="middle">
+              <![endif]-->
+              
+              <div class="column" style="width:100%;max-width:330px;display:inline-block;vertical-align:middle;">
+                <div style="padding:10px;font-size:14px;line-height:18px;text-align:left;">
+                  <p style="margin-top:0;margin-bottom:12px;font-family:Arial,sans-serif;font-weight:bold;">Puppies</p>
+                  <p style="margin-top:0;margin-bottom:14px;font-family:Arial,sans-serif;">In 1899, von Stephanitz was attending a dog show when he was shown a dog named Hektor Linksrhein.[ Hektor was the product of few generations of selective breeding and completely fulfilled what von Stephanitz believed a working dog should be.</p>
+                  <p style="margin:0;font-family:Arial,sans-serif;"><a href="https://example.com/" style="background: #ffffff; border: 2px solid #8dc1d6; text-decoration: none; padding: 10px 25px; color: #000000; border-radius: 4px; display:inline-block; mso-padding-alt:0;text-underline-color:#ffffff">
+                    <!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:20pt">&nbsp;</i><![endif]-->
+                    <span style="mso-text-raise:10pt;font-weight:bold;">Adopt puppies</span>
+                    <!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]--></a></p>
+                </div>
+              </div>
+
+              <!--[if mso]>
+              </td>
+              </tr>
+              </table>
+              <![endif]-->
+            </div>
+
+            <div class="spacer" style="line-height:24px;height:24px;mso-line-height-rule:exactly;">&nbsp;</div>
+
+            <div class="two-col" style="text-align:center;font-size:0;direction:rtl;">
+              <!--[if mso]>
+              <table role="presentation" width="100%" dir="rtl">
+              <tr>
+              <td style="width:50%;padding:10px;" valign="middle" dir="ltr">
+              <![endif]-->
+              <div class="column" style="width:100%;max-width:330px;display:inline-block;vertical-align:middle;direction:ltr;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin:0;font-family:Arial,sans-serif;">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/German_Shepherd_Portrait.jpg/220px-German_Shepherd_Portrait.jpg" width="310" alt="" style="display:block;width:310px;max-width:100%;height:auto;" />
+                  </p>
+                </div>
+              </div>
+
+              <!--[if mso]>
+              </td>
+              <td style="width:50%;padding:10px;" valign="middle" dir="ltr">
+              <![endif]-->
+
+              <div class="column" style="width:100%;max-width:330px;display:inline-block;vertical-align:middle;direction:ltr;">
+                <div style="padding:10px;font-size:14px;line-height:18px;text-align:left;">
+                  <p style="margin-top:0;margin-bottom:12px;font-family:Arial,sans-serif;font-weight:bold;">Horand</p>
+                  <p style="margin-top:0;margin-bottom:14px;font-family:Arial,sans-serif;">Horand was declared to be the first German Shepherd Dog, and was the first dog added to the society's breed register.[4] In just a few decades of the Verein für Deutsche Schäferhunde's establishment, the breed became one of the world's most popular and numerous, a position it has maintained to this day. By 1923, the Verein für Deutsche Schäferhunde claimed 50,000 dues-paying members in more than 500 branches in Germany alone.[6]</p>
+                  <p style="margin:0;font-family:Arial,sans-serif;"><a href="https://en.wikipedia.org/wiki/Horand_von_Grafrath" style="background: #ffffff; border: 2px solid #8dc1d6; text-decoration: none; padding: 10px 25px; color: #000000; border-radius: 4px; display:inline-block; mso-padding-alt:0;text-underline-color:#ffffff">
+                    <!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:20pt">&nbsp;</i><![endif]-->
+                    <span style="mso-text-raise:10pt;font-weight:bold;">Read about Horand</span>
+                    <!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]--></a></p>
+                </div>
+              </div>
+              <!--[if mso]>
+              </td>
+              </tr>
+              </table>
+              <![endif]-->
+            </div>
+
+            <div class="spacer" style="line-height:24px;height:24px;mso-line-height-rule:exactly;">&nbsp;</div>
+
+            <table role="presentation" style="width:100%;border:0;border-spacing:0;">
+              <tr>
+                <td style="padding:10px;text-align:center;">
+                  <h1 style="margin-top:0;margin-bottom:12px;font-family:Arial,sans-serif;font-size:24px;line-height:28px;font-weight:bold;">History of the GSD</h1>
+                  <p style="margin:0;font-family:Arial,sans-serif;font-size:18px;line-height:24px;">A shortened version of the history of this majestic breed</p>
+                </td>
+              </tr>
+            </table>
+
+            <div class="three-col" style="font-size:0;text-align:center;">
+              <!--[if mso]>
+              <table role="presentation" width="100%" style="text-align:center;">
+              <tr>
+              <td style="width:220px;padding:10px;" valign="top">
+              <![endif]-->
+              
+              <div class="column" style="width:100%;max-width:220px;display:inline-block;vertical-align:top;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin-top:0;margin-bottom:10px;font-family:Arial,sans-serif;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg/220px-Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg" width="100" alt="" style="width:100px;max-width:100%;height:auto;" /></p>
+                  <p style="margin:0;font-family:Arial,sans-serif;">Horand von Grafrath (January 1, 1895 – after 1899) (formerly Hektor Linksrhein) was the first German Shepherd Dog and the genetic basis for modern German Shepherds.</p>
+                </div>
+              </div>
+
+              <!--[if mso]>
+              </td>
+              <td style="width:220px;padding:10px;" valign="top">
+              <![endif]-->
+
+              <div class="column" style="width:100%;max-width:220px;display:inline-block;vertical-align:top;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin-top:0;margin-bottom:10px;font-family:Arial,sans-serif;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg/220px-Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg" width="100" alt="" style="width:100px;max-width:100%;height:auto;" /></p>
+                  <p style="margin:0;font-family:Arial,sans-serif;">Horand von Grafrath (January 1, 1895 – after 1899) (formerly Hektor Linksrhein) was the first German Shepherd Dog and the genetic basis for modern German Shepherds.</p>
+                </div>
+              </div>
+
+              <!--[if mso]>
+              </td>
+              <td style="width:220px;padding:10px;" valign="top">
+              <![endif]-->
+
+              <div class="column" style="width:100%;max-width:220px;display:inline-block;vertical-align:top;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin-top:0;margin-bottom:10px;font-family:Arial,sans-serif;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg/220px-Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg" width="100" alt="" style="width:100px;max-width:100%;height:auto;" /></p>
+                  <p style="margin:0;font-family:Arial,sans-serif;">Horand von Grafrath (January 1, 1895 – after 1899) (formerly Hektor Linksrhein) was the first German Shepherd Dog and the genetic basis for modern German Shepherds.</p>
+                </div>
+              </div>
+              
+              <!--[if mso]>
+              </td>
+              </tr>
+              <tr>
+              <td style="width:220px;padding:10px;" valign="top">
+              <![endif]-->
+
+              <div class="column" style="width:100%;max-width:220px;display:inline-block;vertical-align:top;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin-top:0;margin-bottom:10px;font-family:Arial,sans-serif;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg/220px-Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg" width="100" alt="" style="width:100px;max-width:100%;height:auto;" /></p>
+                  <p style="margin:0;font-family:Arial,sans-serif;">Horand von Grafrath (January 1, 1895 – after 1899) (formerly Hektor Linksrhein) was the first German Shepherd Dog and the genetic basis for modern German Shepherds.</p>
+                </div>
+              </div>
+
+              <!--[if mso]>
+              </td>
+              <td style="width:220px;padding:10px;" valign="top">
+              <![endif]-->
+              
+              <div class="column" style="width:100%;max-width:220px;display:inline-block;vertical-align:top;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin-top:0;margin-bottom:10px;font-family:Arial,sans-serif;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg/220px-Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg" width="100" alt="" style="width:100px;max-width:100%;height:auto;" /></p>
+                  <p style="margin:0;font-family:Arial,sans-serif;">Horand von Grafrath (January 1, 1895 – after 1899) (formerly Hektor Linksrhein) was the first German Shepherd Dog and the genetic basis for modern German Shepherds.</p>
+                </div>
+              </div>
+
+              <!--[if mso]>
+              </td>
+              <td style="width:220px;padding:10px;" valign="top">
+              <![endif]-->
+              <div class="column" style="width:100%;max-width:220px;display:inline-block;vertical-align:top;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin-top:0;margin-bottom:10px;font-family:Arial,sans-serif;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg/220px-Horand_von_Grafrath_SZ1_aka_Hektor_Linksrheim.jpg" width="100" alt="" style="width:100px;max-width:100%;height:auto;" /></p>
+                  <p style="margin:0;font-family:Arial,sans-serif;">Horand von Grafrath (January 1, 1895 – after 1899) (formerly Hektor Linksrhein) was the first German Shepherd Dog and the genetic basis for modern German Shepherds.</p>
+                </div>
+              </div>
+              <!--[if mso]>
+              </td>
+              </tr>
+              </table>
+              <![endif]-->
+            </div>
+
+            <div class="spacer" style="line-height:50px;height:50px;mso-line-height-rule:exactly;">&nbsp;</div>
+
+            <div class="sidebar" style="font-size:0;text-align:center;">
+              <!--[if mso]>
+              <table role="presentation" width="100%">
+              <tr>
+              <td style="width:100px;padding:10px;text-align:center;" valign="middle">
+              <![endif]-->
+              <div class="small" style="width:100%;max-width:100px;display:inline-block;vertical-align:middle;">
+                <div style="padding:10px;font-family:Arial,sans-serif;font-size:14px;line-height:18px;">
+                  <img src="https://png.pngtree.com/png-clipart/20210311/original/pngtree-brush-circle-creative-brush-effect-png-image_6020152.jpg" width="80" alt="" style="width:80px;max-width:100%;height:auto;" />
+                </div>
+              </div>
+              <!--[if mso]>
+              </td>
+              <td style="width:560px;padding:10px;text-align:center;" valign="middle">
+              <![endif]-->
+              <div class="large" style="width:100%;max-width:560px;display:inline-block;vertical-align:middle;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin:0;font-family:Arial,sans-serif;">Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat. <a href="http://www.example.com/" style="color:#a16767;text-decoration:underline;"><strong>Read&nbsp;on</strong></a></p>
+                </div>
+              </div>
+              <!--[if mso]>
+              </td>
+              </tr>
+              </table>
+              <![endif]-->
+            </div>
+
+            <div class="spacer" style="line-height:10px;height:10px;mso-line-height-rule:exactly;">&nbsp;</div>
+
+            <div class="sidebar" style="font-size:0;text-align:center;direction:rtl;">
+              <!--[if mso]>
+              <table role="presentation" width="100%" dir="rtl">
+              <tr>
+              <td style="width:100px;padding:10px;text-align:center;" valign="middle" dir="ltr">
+              <![endif]-->
+              <div class="small" style="width:100%;max-width:100px;display:inline-block;vertical-align:middle;direction:ltr;">
+                <div style="padding:10px;font-family:Arial,sans-serif;font-size:14px;line-height:18px;">
+                  <img src="https://png.pngtree.com/png-clipart/20210311/original/pngtree-brush-circle-creative-brush-effect-png-image_6020152.jpg" width="80" alt="" style="width:80px;max-width:100%;height:auto;" />
+                </div>
+              </div>
+              <!--[if mso]>
+              </td>
+              <td style="width:560px;padding:10px;text-align:center;" valign="middle" dir="ltr">
+              <![endif]-->
+              <div class="large" style="width:100%;max-width:560px;display:inline-block;vertical-align:middle;direction:ltr;">
+                <div style="padding:10px;font-size:14px;line-height:18px;">
+                  <p style="margin:0;font-family:Arial,sans-serif;">Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra. <a href="http://www.example.com/" style="color:#a16767;text-decoration:underline;"><strong>Register&nbsp;today</strong></a></p>
+                </div>
+              </div>
+              <!--[if mso]>
+              </td>
+              </tr>
+              </table>
+              <![endif]-->
+            </div>
+
+            <div class="spacer" style="line-height:40px;height:40px;mso-line-height-rule:exactly;">&nbsp;</div>
+
+          </div>
+          <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
